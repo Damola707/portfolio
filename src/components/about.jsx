@@ -36,7 +36,7 @@ export default function About() {
         {/* Professional Summary */}
         <div className={`space-y-6 ${isVisible ? "stagger-item-0" : "opacity-0"}`}>
           <p className="text-lg text-mist/90 leading-relaxed">
-            I'm <span className="text-aqua font-semibold">Agboola Ephraim Ayodamola-Chidozie - ACE </span>, a creative and driven software engineering student from Veritas University Abuja, passionate about the intersection of <span className="text-calm font-semibold">business and technology</span>.
+            I'm <span className="text-aqua font-semibold">Agboola Ephraim Ayodamola-Chidozie - ACE </span>, a creative and driven software engineering graduate from Veritas University Abuja, passionate about the intersection of <span className="text-calm font-semibold">business and technology</span>.
           </p>
           
           <div className="px-6 py-4 rounded-lg bg-ocean/30 border border-white/5 backdrop-blur-sm">
